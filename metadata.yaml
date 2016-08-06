@@ -1,0 +1,31 @@
+_repo: A-Practical-Physiology--A-Text-Book-for-Higher-Schools_10453
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blaisdell, Albert F. (Albert Franklin)
+    alias: Blaisdell, Albert Franklin
+    birthdate: 1847
+    deathdate: 1927
+    gutenberg_agent_id: '3542'
+    url: http://www.gutenberg.org/2009/agents/3542
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physiology'
+- !lcc 'QP'
+- !lcsh 'Human physiology'
+- GITenberg
+tableOfContents: Introduction -- The bones -- The muscles -- Physical exercise --
+  Food and drink -- Digestion -- The blood and its circulation -- Respiration -- The
+  skin and the kidneys -- The nervous system -- The special sense -- The throat and
+  the voice -- Accidents and emergencies -- In sickness and in health -- Experimental
+  work in physiology.
+title: 'A Practical Physiology: A Text-Book for Higher Schools'
+url: http://www.gutenberg.org/ebooks/10453
